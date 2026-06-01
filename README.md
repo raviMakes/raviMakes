@@ -1,6 +1,6 @@
 # Hi, I'm Ravi 👋
 
-### 🚀 Senior Full-Stack Developer | SaaS | AI Solutions | Microservices Architecture
+### 🚀 Full-Stack Developer | SaaS | AI Solutions | Microservices Architecture
 
 With 8+ years of experience in software development, I specialize in designing and building scalable web applications, SaaS platforms, and distributed systems. I enjoy transforming business requirements into production-ready products with a strong focus on performance, maintainability, and user experience.
 
